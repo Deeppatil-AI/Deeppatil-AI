@@ -72,8 +72,7 @@ This section runs on <a href="https://github.com/HFO4/gameboy.live">Gameboy.Live
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deeppatil-AI&theme=dark&hide_border=false)<br/>
-![](https://streak-stats.demolab.com/?user=Deeppatil-AI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeppatil-AI&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Deeppatil-AI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Deeppatil-AI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://komarev.com/ghpvc/?username=Deeppatil-AI&icon=6&color=blue)](https://github.com/Deeppatil-AI)
+[![](https://komarev.com/ghpvc/?username=Deeppatil-AI&color=blue)](https://github.com/Deeppatil-AI)
